@@ -81,6 +81,8 @@ int main()
 	while (cin >> var)
 		pages.push_back(var);
 
+	/* Use ctrl + D or equivalent on other OS to end the input (signal EOF) */
+
 	cout << "Page replacements (FIFO): " << page_replacement_fifo (capacity) << "\n";
 	cout << "Page replacements (LRU) : " << page_replacement_lru (capacity) << "\n";
 
