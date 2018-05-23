@@ -16,5 +16,7 @@
 
 [Dining Philosophers problem](./dining_philosopher.cpp)
 
-[Bankers problem](./bankers.cpp)
+[Bankers algorithm](./bankers.cpp)
+
+[Page replacement](./page_replacement.cpp)
 
