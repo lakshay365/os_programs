@@ -14,3 +14,6 @@
 
 [Readers Writers problem](./readers_writers.cpp)
 
+[Dining Philosophers problem](./dining_philosopher.cpp)
+
+
