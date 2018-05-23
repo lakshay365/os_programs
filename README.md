@@ -16,4 +16,5 @@
 
 [Dining Philosophers problem](./dining_philosopher.cpp)
 
+[Bankers problem](./bankers.cpp)
 
