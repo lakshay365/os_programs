@@ -11,3 +11,6 @@
 [Critical Section Problem (Peterson)](./critical.c)
 
 [Producer Consumer problem](./producer_consumer.c)
+
+[Readers Writers problem](./readers_writers.cpp)
+
